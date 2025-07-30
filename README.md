@@ -33,12 +33,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ~use windows 10 VM
 ~Set resources(2-4 vCPU's 8GB RAM)
 ~Create a username and password
+<img width="1882" height="879" alt="Screenshot 2025-07-29 at 8 58 06 PM" src="https://github.com/user-attachments/assets/77fcf43f-fe39-45c0-9f25-cf457302ad4a" />
 
 
 
 
 2.Connect to the VM via Remote Desktop
 ~Use public IP address and RDP credentials
+<img width="1020" height="710" alt="Screenshot 2025-07-29 at 9 09 33 PM" src="https://github.com/user-attachments/assets/88627d87-d5c8-4e33-83a7-150392b8d664" />
+
 
 3.Download OS Ticket installation 
 ~Download and extract the provided os Ticket installation files onto the VM's desktop 
