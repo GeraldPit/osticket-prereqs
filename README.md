@@ -51,15 +51,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 4.Enable IIS (Internet Information Services) with CGI 
 ~Open Control Panel-Programs-Turn Windows features on or off
 ~Enable IIS and CGI under Application Development Features
+<img width="1263" height="856" alt="Screenshot 2025-07-29 at 9 28 35 PM" src="https://github.com/user-attachments/assets/38ec6c80-f802-43d0-bfcb-074ec98ad92c" />
 
 
 
 
 5.Install PHP manager and Rewrite Module
 ~Use the installers from the lab files folder 
+<img width="578" height="466" alt="Screenshot 2025-07-29 at 9 34 49 PM" src="https://github.com/user-attachments/assets/e9cb680e-94b3-4d31-bf4a-8694b659eefe" />
+
 
 6.Create PHP Folder
 ~Make C:\PHP ~Extract provided PHP files into it 
+<img width="785" height="395" alt="Screenshot 2025-07-29 at 9 36 43 PM" src="https://github.com/user-attachments/assets/3d01ee7a-aa66-421a-a346-1d452055a94f" />
+
 
 
 
@@ -83,6 +88,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 13.Test osTicket in Browser 
 ~Navigate to http://127.0.0.1/osTicket in Microsoft edge 
+<img width="1920" height="1032" alt="Screenshot 2025-07-29 at 9 40 04 PM" src="https://github.com/user-attachments/assets/fdba1748-68be-4270-a2b0-ec21bbe8f596" />
+
 
 14.Enable PHP Extensions 
 ~In IIS, enable imap,intl,and opcache via PHP manager 
@@ -92,26 +99,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 16.Create osTicket Database
 
 17.Complete osTicket Web Setup
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1337" height="670" alt="Screenshot 2025-07-30 at 9 01 24 PM" src="https://github.com/user-attachments/assets/fcaa64b2-ea28-4c21-a7b2-fa2d77266ee4" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
