@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>Installation Steps</h2>
-1.Create a virtual MAchine VM 
+1.Create a virtual Machine VM 
 ~use windows 10 VM
 ~Set resources(2-4 vCPU's 8GB RAM)
 ~Create a username and password
