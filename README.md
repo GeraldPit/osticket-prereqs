@@ -91,6 +91,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 14.Enable PHP Extensions 
 ~In IIS, enable imap,intl,and opcache via PHP manager 
+<img width="1244" height="584" alt="Screenshot 2025-07-29 at 10 16 25 PM" src="https://github.com/user-attachments/assets/78c2bc4e-b6ac-49c0-90a2-0e58105d626a" />
+
 
 15.Rename Config File & Set Permissions 
 
