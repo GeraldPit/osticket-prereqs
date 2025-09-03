@@ -70,6 +70,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 8.Install MySQL 5.5 
 ~Choose typical Setup ~Set both username and password 
+<img width="692" height="484" alt="Screenshot 2025-07-29 at 10 13 08 PM" src="https://github.com/user-attachments/assets/c238ce1c-5046-4cc9-ae5e-f793f5b1dccd" />
+
 
 9.Restart PHP in IIS 
 ~Use PHP Manager in IIS to register C:\PHP\php-cgi.exe
